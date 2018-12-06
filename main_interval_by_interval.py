@@ -212,8 +212,8 @@ for sess_no in session :
 
                         data_tuning = [ sess_no, area1, count1, area2, count2,   
                                         cortex1, cortex2,  
-                                        interval,
                                         str_freq,
+                                        interval,
                                         window_size, 
                                         len(ind_test), len(ind_train), 
                                         alpha,

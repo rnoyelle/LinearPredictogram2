@@ -4,7 +4,7 @@ LinearPredictogram interval by interval
 linear regression (ridge)
 
 
-Create those folder
+you must create results folder 
 
 ```
 my_project
